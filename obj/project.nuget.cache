@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/HeyF5esq+KqTZ6WvIK0xZeAlS89mUApK5nqSo2jcIMhFoVWkcp/sQ6rrvSn31E8Y9+GM4O75L3prBkMz14ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vika\\projects-c#\\ConsoleApiCall\\ConsoleApiCall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vika\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Vika\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
